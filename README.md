@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Aren
-- 👀 I’m interested in ECS
-- 🌱 I’m currently developing games
-
+Hi, I’m Aren
 
 
 <!---
